@@ -1,0 +1,8 @@
+﻿  АСД_ЛАБ_4.cpp
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(233,10): warning C4129: 'A': unrecognized character escape sequence
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(240,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(261,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(273,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(384,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\source\repos\АСД_ЛАБ_4\АСД_ЛАБ_4\АСД_ЛАБ_4.cpp(441,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  АСД_ЛАБ_4.vcxproj -> E:\source\repos\АСД_ЛАБ_4\x64\Debug\АСД_ЛАБ_4.exe
